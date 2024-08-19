@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'keiwaPro', // Usually your GitHub org/user name.
-  projectName: 'keiwaPro/doc-api-keiwa-pro', // Usually your repo name.
+  projectName: 'doc-api-keiwa-pro', // Usually your repo name.
 
   deploymentBranch:'main',
 
