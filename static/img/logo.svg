@@ -1,0 +1,17 @@
+<svg id="Groupe_2" data-name="Groupe 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="319.176" height="337.828" viewBox="0 0 319.176 337.828">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="319.176" height="337.828" fill="#7daf31"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_1" data-name="Groupe 1" clip-path="url(#clip-path)">
+    <path id="Tracé_1" data-name="Tracé 1" d="M452.239,5.78,314.9,270.584l-11.759-88.809L383.021,27.717A51.336,51.336,0,0,1,452.239,5.78Z" transform="translate(-133.063 0)" fill="#7daf31"/>
+    <path id="Tracé_2" data-name="Tracé 2" d="M270.436,279.128l-34.45,66.449-7.354-57.8v-.033l34.218-65.952Z" transform="translate(-100.357 -97.353)" fill="#7daf31"/>
+    <path id="Tracé_3" data-name="Tracé 3" d="M287.949,412.8,253.1,480.042l-11.362-89.6,34.45-66.449Z" transform="translate(-106.11 -142.214)" fill="#7daf31"/>
+    <path id="Tracé_4" data-name="Tracé 4" d="M209.89,217.27l-34.227,65.952v.044L121.788,387.143l-13.817-84.86,32.7-63.058A51.344,51.344,0,0,1,209.89,217.27" transform="translate(-47.394 -92.836)" fill="#7daf31"/>
+    <path id="Tracé_5" data-name="Tracé 5" d="M262.85,221.788,228.632,287.74l1.844,14.529Z" transform="translate(-100.357 -97.353)" fill="#7daf31"/>
+    <line id="Ligne_1" data-name="Ligne 1" y1="80.481" x2="32.374" transform="translate(130.119 124.435)" fill="#2f7126"/>
+    <path id="Tracé_6" data-name="Tracé 6" d="M48.746,229.592l.188,1.7a24.909,24.909,0,0,0-24.172-19.778C11.075,211.509,0,222.846,0,236.815A23.4,23.4,0,0,0,.218,240.1L.5,241.907a.074.074,0,0,0,.022.043L24.979,394.438c-.065-8.139.914-25.241,4.918-32.965l30.681-59.185Z" transform="translate(0 -92.841)" fill="#7daf31"/>
+    <path id="Tracé_7" data-name="Tracé 7" d="M79.437,373.31l-30.68,59.185a51.47,51.47,0,0,0-5.788,24.153A52.405,52.405,0,0,0,45.45,471.9a51.243,51.243,0,0,0,25.24,29.788L93.254,458.17Z" transform="translate(-18.86 -163.863)" fill="#7daf31"/>
+  </g>
+</svg>
