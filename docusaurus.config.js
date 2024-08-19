@@ -23,6 +23,8 @@ const config = {
   organizationName: 'KEIWA', // Usually your GitHub org/user name.
   projectName: 'keiwaPro', // Usually your repo name.
 
+  deploymentBranch:'main',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
